@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+body{
+	background: #FFFFFF url("fon2.png") no-repeat top center;
+}
+h3{
+	
+}
+.header{ 
+  background-color: #ccc;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: rgba(68, 112, 196, 0.7);
+  border: 5px solid #2d508f;
+  color: #ffffff;
+  border-radius: 10px;
+            }
+.avatar{
+	border-radius:50%;
+	float:left;
+	
+}
+
+.sidebar{
+    background-color: SeaGreen;
+    float: right;
+    width: 150px;
+	border: 5px solid Green;
+	border-radius: 10px;
+}
+.main{
+	color: Aqua;
+background-color: #FFA500;
+margin-right: 170px;
+padding: 10px;
+border: 5px solid #FF4500;
+font-size: 20px;
+margin-bottom: 30px;
+padding: 20px;
+border-radius: 15px 100px 15px 100px;
+	
+}
+.photo{
+float:left;
+}
+.footer{ 
+margin-top: 30px;
+padding-top: 10px;
+color:  rgba(68, 112, 196, 0.7);
+border-top: 1px solid  rgba(68, 112, 196, 0.7);
+
+ }
+.l{
+  text-align:right;
+}
